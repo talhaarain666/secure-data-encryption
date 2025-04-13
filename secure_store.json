@@ -1,0 +1,31 @@
+{
+    "gAAAAABn-oLsSXGUsII-Bg4dm64zVYBRcxRcbEK68a-0SBM3C7M4M6ydRhHBbBCU-3Jq0VXQjZePcqNuH0hzDBU1ay_byGrAnw==": {
+        "encrypted_text": "gAAAAABn-oLsSXGUsII-Bg4dm64zVYBRcxRcbEK68a-0SBM3C7M4M6ydRhHBbBCU-3Jq0VXQjZePcqNuH0hzDBU1ay_byGrAnw==",
+        "passkey_hash": "9KoRya3qE3R1riS9TeQSV+S2B1xpyQxnNbSF6fatLvM=",
+        "salt": "MeAxUVRvRcYDewZxLQigKA=="
+    },
+    "users": {
+        "Talha": {
+            "password_hash": "2C5KvHwl4OR/mGNQQ32uToDyKar0kvhpkyB+3IBwmKs=",
+            "salt": "KAgAYaYoc5Co0/Vpd5TDnw==",
+            "data": {
+                "8813b48b-f8f8-451f-832b-b9525654d992": {
+                    "encrypted_text": "gAAAAABn-4HiIvytDtuIqxmqZt1LA3uN6v1cwRJihp1DVDEhGSRy7ljxgsVDNi9MVFFgNMZj76_AEec5AdimAgfZ2CIA0fAHFg==",
+                    "passkey_hash": "OMbAfoIpDcP82zOs532aGznlgbqbGag2PirPEMkqiik=",
+                    "salt": "xH3n0HwgQRpbcwY0WujjoA=="
+                }
+            }
+        },
+        "Anas": {
+            "password_hash": "jT50dbFq+x1xmagQF8slfmDtnv+fYnhV9zFdNgGhtWw=",
+            "salt": "G1LitnJA7kQTpP72VUfrTQ==",
+            "data": {
+                "56463fd6-02f7-468a-9c14-3e47b1ab0978": {
+                    "encrypted_text": "gAAAAABn-4I5VNU7gLncZYdP4hzAAPLBTRrCL9rNfF-0Hwfq4WwGVtP0RGbPW_9Jx7FHKy-JUrLnU7rXlAh0s6LxrC12-6MlcA==",
+                    "passkey_hash": "46sEQpNlXje+/nDaCVBdtDNV/vPT/y4nNaYhg1Z5ZNs=",
+                    "salt": "MjSSz6igMGoqYp1JGdgp7w=="
+                }
+            }
+        }
+    }
+}
